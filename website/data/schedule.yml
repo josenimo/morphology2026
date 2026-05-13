@@ -1,7 +1,7 @@
 # Delete this file (or clear the 'days' list) to show "Schedule TBA" automatically.
 days:
   - label: "Day 1"
-    date: "Wed Sep 2"
+    date: "Friday Sep 4"
     items:
       - time: "09:00"
         title: "Arrival & Registration"
@@ -32,7 +32,7 @@ days:
         type: "social"
 
   - label: "Day 2"
-    date: "Thu Sep 3"
+    date: "Saturday Sep 5"
     items:
       - time: "09:00"
         title: "Morning stand-up"
@@ -58,29 +58,3 @@ days:
       - time: "18:30"
         title: "Dinner (optional)"
         type: "social"
-
-  - label: "Day 3"
-    date: "Fri Sep 4"
-    items:
-      - time: "09:00"
-        title: "Morning stand-up"
-        type: "logistics"
-      - time: "09:30"
-        title: "Hackathon sessions"
-        type: "hack"
-      - time: "12:00"
-        title: "On-site lunch"
-        type: "break"
-      - time: "13:00"
-        title: "Hackathon sessions"
-        type: "hack"
-      - time: "14:30"
-        title: "Coffee break"
-        type: "break"
-      - time: "15:00"
-        title: "Presentations & wrap-up"
-        type: "talk"
-      - time: "16:30"
-        title: "End of day"
-        type: "logistics"
-      

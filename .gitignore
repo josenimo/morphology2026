@@ -5,3 +5,9 @@ hugo_stats.json
 node_modules/
 **/.DS_Store
 .prettierignore
+
+.venv
+uv.lock
+pyproject.toml
+main.py
+.python-version
